@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shihaya/shihaya/assets/66997466/3cf5cb90-927a-400f-9c49-b0574f0164d6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shihaya/shihaya/assets/66997466/3cf5cb90-927a-400f-9c49-b0574f0164d6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shihaya/shihaya/assets/66997466/31930548-ca00-436b-84c5-45dc8ab28d2e">
   <img alt="Banner" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
