@@ -28,7 +28,7 @@
 
 <br>
 
-- 🌱 Learning Unreal 5/C++, and refining my web dev skills with fun projects over at <a href="https://www.codedex.io">Codèdex</a>.
+- 🌱 Learning Unreal 5/C++, and refining my web dev skills with fun projects over at <a href="https://www.codedex.io/@shihaya">Codèdex</a>.
 
 <br>
 
