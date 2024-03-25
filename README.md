@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">I'm an aspiring game developer from Romania. I've graduated last year with a Game Design major in Netherlands, and I'm currently looking for my first job. I work primarily with Unity and C#, but I'm open to learning new technologies and looking forward to new fun challenges. Besides game dev, I've really enjoyed web development since my high school days, and have have worked on a couple of websites, including my own.</p>
+<p align="center">I'm an aspiring game developer from Romania. I've graduated last year with a Game Design major in Netherlands, and I'm currently looking for my first job. I work primarily with Unity and C#, but I'm open to learning new technologies and looking forward to new fun challenges. Besides game dev, I've really enjoyed web development since my high school days, and have worked on a couple of websites, including my own.</p>
 
 <br><br>
 
