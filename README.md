@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center" width="50%">I'm an aspiring game developer from Romania. I've graduated last year with a Game Design major in Netherlands, and I'm currently looking for my first job. I work primarily with Unity and C#, but I'm open to learning new technologies and looking forward to new fun challenges. Besides game dev, I've really enjoyed web development since my high school days, and have have worked on a couple of websites, including my own.</p>
+<p align="center">I'm an aspiring game developer from Romania. I've graduated last year with a Game Design major in Netherlands, and I'm currently looking for my first job. I work primarily with Unity and C#, but I'm open to learning new technologies and looking forward to new fun challenges. Besides game dev, I've really enjoyed web development since my high school days, and have have worked on a couple of websites, including my own.</p>
 
 <br><br>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 - ⚡ My cat, Tom, wrote this README. Look at this cute fella ➡️
 
-<br>
+<br><br>
 
 ---
 
@@ -61,18 +61,18 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img alt="C sharp logo" src="https://github.com/shihaya/shihaya/assets/66997466/eb826513-5406-4afe-9bc4-6ec32c52ac4c" width="60" />
-  <img alt="C plus plus logo" src="https://github.com/shihaya/shihaya/assets/66997466/39d29b02-16d5-40b2-8703-5f7bca61ad7d" width="60" />
-  <img alt="Unity logo" src="https://github.com/shihaya/shihaya/assets/66997466/c8ea9ecf-1c43-4f03-85df-94efb8a7cff5" width="60" />
-  <img alt="Unreal logo" src="https://github.com/shihaya/shihaya/assets/66997466/e8e5bf42-1665-4570-b775-1e3cabe0a14f" width="60" />
-  <img alt="GitHub logo" src="https://github.com/shihaya/shihaya/assets/66997466/ecd8f267-ecbe-4b8b-8fba-3608f1bfd7a4" width="60" />
-  <img alt="Python logo" src="https://github.com/shihaya/shihaya/assets/66997466/48d22192-88b5-436d-a3e5-5a7448f015d8" width="60" />
-  <img alt="HTML 5 logo" src="https://github.com/shihaya/shihaya/assets/66997466/3296b374-3ae1-4629-a735-b91fe0fdea8b" width="60" />
-  <img alt="CSS 3 logo" src="https://github.com/shihaya/shihaya/assets/66997466/156ed4d9-3a03-417d-a613-ec20fa620505" width="60" />
-  <img alt="JavaScript logo" src="https://github.com/shihaya/shihaya/assets/66997466/52315b32-df7e-4bdb-8cf1-381d629515dc" width="60" />
-  <img alt="React logo" src="https://github.com/shihaya/shihaya/assets/66997466/e948fdf4-7257-4a4f-bf09-3cd959e1b31b" width="60" />
-  <img alt="Vue logo" src="https://github.com/shihaya/shihaya/assets/66997466/c6d788af-fa76-45f6-823b-7315b00b60e1" width="60" />
-  <img alt="Jira logo" src="https://github.com/shihaya/shihaya/assets/66997466/59e37755-e523-43e4-9160-db7ef5125e08" width="60" />
+  <img alt="C sharp logo" src="https://github.com/shihaya/shihaya/assets/66997466/eb826513-5406-4afe-9bc4-6ec32c52ac4c" width="65" />
+  <img alt="C plus plus logo" src="https://github.com/shihaya/shihaya/assets/66997466/39d29b02-16d5-40b2-8703-5f7bca61ad7d" width="65" />
+  <img alt="Unity logo" src="https://github.com/shihaya/shihaya/assets/66997466/c8ea9ecf-1c43-4f03-85df-94efb8a7cff5" width="65" />
+  <img alt="Unreal logo" src="https://github.com/shihaya/shihaya/assets/66997466/e8e5bf42-1665-4570-b775-1e3cabe0a14f" width="65" />
+  <img alt="GitHub logo" src="https://github.com/shihaya/shihaya/assets/66997466/ecd8f267-ecbe-4b8b-8fba-3608f1bfd7a4" width="65" />
+  <img alt="Python logo" src="https://github.com/shihaya/shihaya/assets/66997466/48d22192-88b5-436d-a3e5-5a7448f015d8" width="65" />
+  <img alt="HTML 5 logo" src="https://github.com/shihaya/shihaya/assets/66997466/3296b374-3ae1-4629-a735-b91fe0fdea8b" width="65" />
+  <img alt="CSS 3 logo" src="https://github.com/shihaya/shihaya/assets/66997466/156ed4d9-3a03-417d-a613-ec20fa620505" width="65" />
+  <img alt="JavaScript logo" src="https://github.com/shihaya/shihaya/assets/66997466/52315b32-df7e-4bdb-8cf1-381d629515dc" width="65" />
+  <img alt="React logo" src="https://github.com/shihaya/shihaya/assets/66997466/e948fdf4-7257-4a4f-bf09-3cd959e1b31b" width="65" />
+  <img alt="Vue logo" src="https://github.com/shihaya/shihaya/assets/66997466/c6d788af-fa76-45f6-823b-7315b00b60e1" width="65" />
+  <img alt="Jira logo" src="https://github.com/shihaya/shihaya/assets/66997466/59e37755-e523-43e4-9160-db7ef5125e08" width="65" />
 
 </div>
 
