@@ -66,8 +66,8 @@
 ---
 
 <div align="center">
-  <img alt="Shihaya's stats" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=shihaya&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
-  <img alt="Shihaya's most used languages" src="https://github-readme-stats-rho-topaz.vercel.app/api/top-langs?username=shihaya&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
+  <img alt="Shihaya's stats" src="https://github-readme-stats-sandy-rho.vercel.app/api?username=shihaya&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
+  <img alt="Shihaya's most used languages" src="https://github-readme-stats-sandy-rho.vercel.app/api/top-langs?username=shihaya&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
 </div>
 
 <br>
