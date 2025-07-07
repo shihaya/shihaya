@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="center">I'm an aspiring game developer from Romania. I've graduated last year with a Game Design major in Netherlands, and I'm currently looking for my first job. I work primarily with Unity and C#, but I'm open to learning new technologies and looking forward to new fun challenges. Besides game dev, I've really enjoyed web development since my high school days, and have worked on a couple of websites, including my own.</p>
+<p align="center">I'm a Game Design graduate and aspiring game developer from Romania. I work primarily with Unity and C#, but I'm open to learning new technologies and looking forward to new fun challenges. Besides game dev, I really enjoy web development, and am currently working on a couple of projects.</p>
 
 <br><br>
 
@@ -24,19 +24,19 @@
 
 <br>
 
-- 💻 Currently working on a collection of game systems (such as vitals, inventory, crafting, dialogue etc.) in Unity and C#, focusing on improving my programming skills and code architecture.
+- 💻 Currently working on a shooter in Unity and C#, focusing on improving my programming skills and code architecture. And making my own blog for devlogs as a web dev learning project.
 
 <br>
 
-- 🌱 Learning Unreal 5/C++, and refining my web dev skills with fun projects over at <a href="https://www.codedex.io/@shihaya">Codèdex</a>.
+- 🌱 Learning Next.js, TypeScript, and MongoDB.
 
 <br>
 
-- 🎮 Besides gaming, I really love reading and painting, and have recently picked up bookbinding. Which is going ... not terribly.
+- 🎮 Besides gaming, I really love reading and painting, and have <s>recently</s> picked up bookbinding. Which is going ... <s>not terribly</s> quite well, I'm opening my own business.
 
 <br>
 
-- ⚡ My cat, Tom, wrote this README. Look at this cute fella ➡️
+- ⚡ My cat, Tom, wrote this README. I miss him so much 🥹. Look at this cute fella ➡️
 
 <br><br>
 
